@@ -57,4 +57,6 @@ The application includes an interactive button that uses React state to track an
 
 ## Testing
 
-The application was tested locally in both development and production builds. The deployed application was also tested to verify that the page loads correctly and that the interactive counter functions as expected.
+## Testing
+
+The application was tested locally in both development and production builds. The deployed application was tested in Google Chrome and Microsoft Edge. It was also tested using a mobile device viewport to verify that the layout remains responsive and that the interactive counter functions correctly across different screen sizes.
